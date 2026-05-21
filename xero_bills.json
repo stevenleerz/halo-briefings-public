@@ -1,7 +1,41 @@
 {
-  "as_of": "2026-05-22T07:29:08.751422+10:00",
-  "as_of_utc": "2026-05-21T21:29:08.751436+00:00",
-  "count": 0,
-  "summary_line": null,
-  "bills": []
+  "as_of": "2026-05-22T07:56:20.555257+10:00",
+  "as_of_utc": "2026-05-21T21:56:20.555297+00:00",
+  "count_submitted": 5,
+  "count_draft": 1,
+  "summary_line": "5 bills awaiting approval in Xero, plus 1 in draft.",
+  "draft_bills": [
+    {
+      "contact": "Momentum Energy",
+      "total": 0.0,
+      "status": "DRAFT"
+    }
+  ],
+  "submitted_bills": [
+    {
+      "contact": "Momentum Energy",
+      "total": 0.0,
+      "status": "SUBMITTED"
+    },
+    {
+      "contact": "Momentum Energy",
+      "total": 1147.64,
+      "status": "SUBMITTED"
+    },
+    {
+      "contact": "Momentum Energy",
+      "total": 679.47,
+      "status": "SUBMITTED"
+    },
+    {
+      "contact": "Momentum Energy",
+      "total": 4787.85,
+      "status": "SUBMITTED"
+    },
+    {
+      "contact": "Momentum Energy",
+      "total": 0.0,
+      "status": "SUBMITTED"
+    }
+  ]
 }
