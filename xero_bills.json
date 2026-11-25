@@ -1,40 +1,45 @@
 {
-  "as_of": "2026-05-22T07:56:20.555257+10:00",
-  "as_of_utc": "2026-05-21T21:56:20.555297+00:00",
-  "count_submitted": 5,
+  "as_of": "2026-11-25T16:02:14.850006+11:00",
+  "as_of_utc": "2026-11-25T05:02:14.850043+00:00",
+  "count_submitted": 6,
   "count_draft": 1,
-  "summary_line": "5 bills awaiting approval in Xero, plus 1 in draft.",
+  "summary_line": "6 bills awaiting approval in Xero, plus 1 in draft.",
   "draft_bills": [
     {
-      "contact": "Momentum Energy",
-      "total": 0.0,
+      "contact": "Matthews Petroleum",
+      "total": 11725.25,
       "status": "DRAFT"
     }
   ],
   "submitted_bills": [
     {
-      "contact": "Momentum Energy",
-      "total": 0.0,
+      "contact": "Brooke Haberfield",
+      "total": 493.46,
       "status": "SUBMITTED"
     },
     {
-      "contact": "Momentum Energy",
-      "total": 1147.64,
+      "contact": "Totally Workwear Warrnambool",
+      "total": 142.51,
       "status": "SUBMITTED"
     },
     {
-      "contact": "Momentum Energy",
-      "total": 679.47,
+      "contact": "AGnVET",
+      "total": 356.25,
       "status": "SUBMITTED"
     },
     {
-      "contact": "Momentum Energy",
-      "total": 4787.85,
+      "contact": "Alinta Energy",
+      "total": 775.0,
       "status": "SUBMITTED"
     },
     {
-      "contact": "Momentum Energy",
-      "total": 0.0,
+      "contact": "Colin Neal",
+      "total": 46668.82,
+      "status": "SUBMITTED"
+    },
+    {
+      "contact": "Colin Neal",
+      "total": 12898.6,
       "status": "SUBMITTED"
     }
   ]
